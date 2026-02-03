@@ -8,6 +8,7 @@ capcutapi.com
 ctobsnssdk.com
 disneyplus.com
 ekatox.com
+epicgames.com
 facebook.com
 fbcdn.net
 firebaseio.com
@@ -52,3 +53,4 @@ xiaomi.com
 xiaomi.net
 youtube.com
 ytimg.com
+
