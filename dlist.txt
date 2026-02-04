@@ -1,3 +1,4 @@
+adblockplus.org
 aliyuncs.com
 app-measurement.com
 appsflyersdk.com
@@ -22,6 +23,7 @@ gvt2.com
 instagram.com
 ipify.org
 lgtvsdp.com
+lrts.me
 mi.com
 microsoft.com
 miui.com
@@ -32,12 +34,15 @@ ntp.org
 oppo.com
 pinterest.com
 qq.com
+qwps.cn
 samsung.com
+sentry.io
 shalltry.com
 shopee.co.id
 shopeemobile.com
 spotify.com
 steamserver.net
+tencentmusic.com
 tiktok.com
 tiktokcdn.com
 tiktokcdn-eu.com
@@ -47,10 +52,10 @@ vivo.com.cn
 vivoglobal.com
 whatsapp.com
 whatsapp.net
+wting.info
 xhscdn.com
 xiaohongshu.com
 xiaomi.com
 xiaomi.net
 youtube.com
 ytimg.com
-
