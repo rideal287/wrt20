@@ -19,7 +19,6 @@ galaxyapps.com
 google.com
 googleapis.com
 googleusercontent.com
-googlevideo.com
 gstatic.com
 gvt2.com
 ibyteimg.com
