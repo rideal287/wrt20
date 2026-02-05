@@ -3,9 +3,11 @@ aliyuncs.com
 app-measurement.com
 appsflyersdk.com
 baidu.com
+boomplaymusic.com
 byteoversea.com
 capcut.com
 capcutapi.com
+crashlytics.com
 ctobsnssdk.com
 disneyplus.com
 ekatox.com
@@ -20,6 +22,7 @@ googleusercontent.com
 googlevideo.com
 gstatic.com
 gvt2.com
+ibyteimg.com
 instagram.com
 ipify.org
 lgtvsdp.com
@@ -46,12 +49,15 @@ tencentmusic.com
 tiktok.com
 tiktokcdn.com
 tiktokcdn-eu.com
+tiktokpangle.us
+tiktokpangle-b.us
 tiktokv.com
 vivo.com
 vivo.com.cn
 vivoglobal.com
 whatsapp.com
 whatsapp.net
+wps.com
 wting.info
 xhscdn.com
 xiaohongshu.com
