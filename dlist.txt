@@ -7,9 +7,11 @@ boomplaymusic.com
 byteoversea.com
 capcut.com
 capcutapi.com
+chatgpt.com
 crashlytics.com
 ctobsnssdk.com
 disneyplus.com
+duolingo.com
 ekatox.com
 epicgames.com
 facebook.com
@@ -19,6 +21,7 @@ galaxyapps.com
 google.com
 googleapis.com
 googleusercontent.com
+googlevideo.com
 gstatic.com
 gvt2.com
 ibyteimg.com
@@ -38,7 +41,9 @@ pinterest.com
 qq.com
 qwps.cn
 samsung.com
+scdn.co
 sentry.io
+sgsnssdk.com
 shalltry.com
 shopee.co.id
 shopeemobile.com
@@ -51,6 +56,7 @@ tiktokcdn-eu.com
 tiktokpangle.us
 tiktokpangle-b.us
 tiktokv.com
+tokopedia.com
 vivo.com
 vivo.com.cn
 vivoglobal.com
