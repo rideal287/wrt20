@@ -12,6 +12,7 @@ crashlytics.com
 ctobsnssdk.com
 disneyplus.com
 duolingo.com
+ea.com
 ekatox.com
 epicgames.com
 facebook.com
@@ -28,6 +29,7 @@ ibyteimg.com
 instagram.com
 ipify.org
 lgtvsdp.com
+live.com
 lrts.me
 mi.com
 microsoft.com
@@ -36,10 +38,13 @@ msn.com
 mting.info
 netflix.com
 ntp.org
+office.net
 oppo.com
+palm.tech
 pinterest.com
 qq.com
 qwps.cn
+roblox.com
 samsung.com
 scdn.co
 sentry.io
