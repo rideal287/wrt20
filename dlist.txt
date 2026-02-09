@@ -1,5 +1,7 @@
+3gppnetwork.org
 adblockplus.org
 aliyuncs.com
+android.com
 app-measurement.com
 appsflyersdk.com
 baidu.com
@@ -7,6 +9,7 @@ boomplaymusic.com
 byteoversea.com
 capcut.com
 capcutapi.com
+cdninstagram.com
 chatgpt.com
 crashlytics.com
 ctobsnssdk.com
@@ -25,6 +28,8 @@ googleusercontent.com
 googlevideo.com
 gstatic.com
 gvt2.com
+heytapmobi.com
+heytapmobile.com
 ibyteimg.com
 instagram.com
 ipify.org
@@ -54,6 +59,7 @@ shopee.co.id
 shopeemobile.com
 spotify.com
 steamserver.net
+susercontent.com
 tencentmusic.com
 tiktok.com
 tiktokcdn.com
